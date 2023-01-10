@@ -52,6 +52,9 @@
                                                 <div class="col-auto">
                                                     <button type="submit" class="btn btn-primary mb-3">إضافة</button>
                                                 </div>
+                                                <div class="col-auto">
+                                                    <router-link class="btn btn-outline-danger mx-2" :to="{ name: 'ProductsIndex' }"> الرجوع للقائمة </router-link>
+                                                </div>
                                             </Form>
                                         </div>
                                     </div>
