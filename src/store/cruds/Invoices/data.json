@@ -1,0 +1,29 @@
+{
+  "data":
+  [
+    {
+      "supplier": "اسم المورد",
+      "supplier_name": "فلان الفلاني",
+      "invoice_number": "SR 1",
+      "invoice_date": "2023-01-01"
+    },
+    {
+      "supplier": "اسم المورد",
+      "supplier_name": "فلان الفلاني",
+      "invoice_number": "SR 2",
+      "invoice_date": "2023-01-01"
+    },
+    {
+      "supplier": "اسم المورد",
+      "supplier_name": "فلان الفلاني",
+      "invoice_number": "SR 3",
+      "invoice_date": "2023-01-02"
+    },
+    {
+      "supplier": "اسم المورد",
+      "supplier_name": "فلان الفلاني",
+      "invoice_number": "SR 4",
+      "invoice_date": "2023-01-02"
+    }
+  ]
+}

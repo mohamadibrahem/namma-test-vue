@@ -1,0 +1,44 @@
+{
+  "data":
+  [
+    {
+      "warehouse": "اسم المخزن",
+      "catygory": "اسم الصنف",
+      "unit": "KG",
+      "expiry_date": "2023-01-01",
+      "quantity": "10",
+      "note": "ملاحظة هنا"
+    },
+    {
+      "warehouse": "اسم المخزن",
+      "catygory": "اسم الصنف",
+      "unit": "KG",
+      "expiry_date": "2023-01-01",
+      "quantity": "10",
+      "note": "ملاحظة هنا"
+    },
+    {
+      "warehouse": "اسم المخزن",
+      "catygory": "اسم الصنف",
+      "unit": "KG",
+      "expiry_date": "2023-01-01",
+      "quantity": "10",
+      "note": "ملاحظة هنا"
+    }
+  ],
+
+  "warehouses":[
+    {
+      "name": "اسم المستودع"
+    },
+    {
+      "name": "2اسم المستودع"
+    },
+    {
+      "name": "3اسم المستودع"
+    },
+    {
+      "name": "4اسم المستودع"
+    }
+  ]
+}
